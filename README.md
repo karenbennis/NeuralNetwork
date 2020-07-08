@@ -56,7 +56,7 @@ In this real-world scenario (AlphabetSoup Challenge), the goal of the binary cla
      * In a final attempt to improve predictive accuracy, a random forest model was defined and run
          - This model (Model 8) also achieved 73% predictive accuracy.
          
-Given that no model achieved the target goal of 75% predictive accuracy, it is recommended that further analysis into the data, additional data, or a combination of the two take place. The idea that the models' performance does not seem to improve meaningfully, based on any modification to the design suggests that the models are already optimized as much as possible, and the underlying factor for the lack of improvement observed between each model is the data itself. Therefore, it is recommended that additional data be collected and incorporated, and the preprocessing take place again before running any of these or any other models.
+Given that no model achieved the target goal of 75% predictive accuracy, it is recommended that further analysis into the data, additional data, or a combination of the two take place. The idea that the models' performance does not seem to improve meaningfully, based on any modification to the design suggests that the models are already optimized as much as possible, and the underlying factor for the lack of improvement observed between each model is the data itself. Therefore, it is recommended that additional data be collected and incorporated, and the preprocessing take place again before running any of these or any other models. Without addressing this underlying issue, it does not make sense to recommend a specific model for future training and testing at this point in time.
 
 
 ## Resources
